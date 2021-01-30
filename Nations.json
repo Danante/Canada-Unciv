@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Canada",
+		"leaderName": "Wilfred Laurier",
+		"adjective": ["Canadian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "How's a going?",
+		"startIntroPart2": "Peace is our strategy, war is unnecasery.",
+		
+		"declaringWar": "Prepare for Blood!",
+		"attacked": "The Beavers are unkillable!",
+		"defeated": "It was a nice go, have a good one.",
+		"introduction": "Hello!",
+		
+		"neutralHello": "How's a going?",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["No Thanks"],
+		"neutralYes": ["SUre!"],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["No."],
+		"hateYes": ["Alright."],
+		
+		"afterPeace": "We hope you enjoy our peace, as it shall last long",
+		"tradeRequest": "mhm?",
+
+		"outerColor": [127,0,0]
+		"innerColor": [255,255,255],
+		"unique": "",
+		"cities": ["Ottawa", "Toronto", "Quebec City", "Montreal", "Vancouver", "Kingston", "London", "Regina", "Edmonton", "Calgary", "Winnipeg", "Saskatoon", "Saint John", "Mocton", "Fredericton", "Halifax"]
+	},
+]
