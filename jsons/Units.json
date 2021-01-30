@@ -1,15 +1,1 @@
-[
-	{
-		"name":"Allah",
-		"unitType":"Armor",
-		"movement":1,
-		"strength":600,
-		"rangedStrength":600,
-		"range":50,
-		"cost":1530,
-		"requiredTech":"",
-		"requiredResource":"",
-		"uniques":[""],
-		"hurryCostModifier":10
-	},
-]
+
