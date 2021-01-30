@@ -4,7 +4,7 @@
 		"leaderName": "Wilfred Laurier",
 		"adjective": ["Canadian"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "How's a going?",
 		"startIntroPart2": "Peace is our strategy, war is unnecasery.",
@@ -19,17 +19,18 @@
 		"neutralNo": ["No Thanks"],
 		"neutralYes": ["SUre!"],
 
-		"hateHello": "...",
+		"hateHello": "'Ello.",
 		"hateLetsHearIt": ["Speak!"],
 		"hateNo": ["No."],
 		"hateYes": ["Alright."],
 		
 		"afterPeace": "We hope you enjoy our peace, as it shall last long",
-		"tradeRequest": "mhm?",
+		"tradeRequest": "Canada's art of negotiation, is there talent?",
 
 		"outerColor": [127,0,0]
 		"innerColor": [255,255,255],
-		"unique": "",
+		"unique": "Canadian Wrath",
+		"uniques":["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "+[20]% Strength if within [1] tiles of a [Forest]", "+[20]% Strength if within [1] tiles of a [Swamp]", "Earn [50]% of [military] opponent's [Strength] as [Happiness] for kills"],
 		"cities": ["Ottawa", "Toronto", "Quebec City", "Montreal", "Vancouver", "Kingston", "London", "Regina", "Edmonton", "Calgary", "Winnipeg", "Saskatoon", "Saint John", "Mocton", "Fredericton", "Halifax"]
 	},
 ]
